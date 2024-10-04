@@ -1,10 +1,3 @@
-#primeira unidade: 7
-#segunda unidade: 4
-#terceira unidade: 6
-#quarta unidade: 8
-
-
-
 aluno = 'jonas'
 nota1 = 7
 nota2 = 8
@@ -21,4 +14,3 @@ if (media) >= limite:
 else:
     print('reprovou')
     print(aluno, 'você precisa estudar mais, sua média foi', media)
-
